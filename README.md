@@ -10,3 +10,11 @@ First install the necessary packages. You can visit my other repo or install the
 # pip3 install protonvpn-cli 
 
 # protonvpn init 
+
+then "chmod +x protonvpn.sh check-vpn.sh" (both need to be in same directory).
+
+then run:
+
+# ./protonvpn.sh
+
+this will connect you to the fastest (usually the Netherlands) server, through UDP.
