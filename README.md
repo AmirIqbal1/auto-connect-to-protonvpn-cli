@@ -1,7 +1,7 @@
 # auto-connect-to-protonvpn-cli
 A simple tool to connect to ProtonVPN automatically &amp; check every 10 seconds, that it's still connected.
 
-First install the necessary packages. You can visit my other repo or install them using the commands below. Tested and working with Ubuntu 18.04 (hasn't been tested with 20.04 yet).
+First install the necessary packages. You can visit my other repo or install them using the commands below. Tested and working with Ubuntu 20.04.
 
 Remember to run as root!
 
